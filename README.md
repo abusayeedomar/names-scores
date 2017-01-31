@@ -4,8 +4,6 @@ Using names.txt, a text file containing over three-thousand first names, begin b
 
 For example, when the list is sorted into alphabetical order, COLIN, which is worth 3 + 15 + 12 + 9 + 14 = 53, is the 1071th name in the list. So, COLIN would obtain a score of 1071 × 53 = 56763.
 
-Just something I was doing to kill time.
-
 ## Screenshot
 
 http://i.imgur.com/32LJlGT.png
